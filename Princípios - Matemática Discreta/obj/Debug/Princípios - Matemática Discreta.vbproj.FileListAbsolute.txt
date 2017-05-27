@@ -1,0 +1,12 @@
+C:\Users\gusta\AppData\Local\Temporary Projects\Princípios - Matemática Discreta\bin\Debug\Princípios - Matemática Discreta.exe.config
+C:\Users\gusta\Documents\Visual Studio 2012\Projects\Princípios - Matemática Discreta\Princípios - Matemática Discreta\bin\Debug\Princípios - Matemática Discreta.exe.config
+C:\Users\gusta\Documents\Visual Studio 2012\Projects\Princípios - Matemática Discreta\Princípios - Matemática Discreta\bin\Debug\Princípios - Matemática Discreta.exe
+C:\Users\gusta\Documents\Visual Studio 2012\Projects\Princípios - Matemática Discreta\Princípios - Matemática Discreta\bin\Debug\Princípios - Matemática Discreta.pdb
+C:\Users\gusta\Documents\Visual Studio 2012\Projects\Princípios - Matemática Discreta\Princípios - Matemática Discreta\bin\Debug\Princípios - Matemática Discreta.xml
+C:\Users\gusta\Documents\Visual Studio 2012\Projects\Princípios - Matemática Discreta\Princípios - Matemática Discreta\obj\Debug\Princípios___Matemática_Discreta.Form1.resources
+C:\Users\gusta\Documents\Visual Studio 2012\Projects\Princípios - Matemática Discreta\Princípios - Matemática Discreta\obj\Debug\Princípios___Matemática_Discreta.Resources.resources
+C:\Users\gusta\Documents\Visual Studio 2012\Projects\Princípios - Matemática Discreta\Princípios - Matemática Discreta\obj\Debug\Princípios - Matemática Discreta.vbproj.GenerateResource.Cache
+C:\Users\gusta\Documents\Visual Studio 2012\Projects\Princípios - Matemática Discreta\Princípios - Matemática Discreta\obj\Debug\Princípios - Matemática Discreta.exe
+C:\Users\gusta\Documents\Visual Studio 2012\Projects\Princípios - Matemática Discreta\Princípios - Matemática Discreta\obj\Debug\Princípios - Matemática Discreta.xml
+C:\Users\gusta\Documents\Visual Studio 2012\Projects\Princípios - Matemática Discreta\Princípios - Matemática Discreta\obj\Debug\Princípios - Matemática Discreta.pdb
+C:\Users\gusta\Documents\Visual Studio 2012\Projects\Princípios - Matemática Discreta\Princípios - Matemática Discreta\obj\Debug\Princípios___Matemática_Discreta.Resultado.resources
