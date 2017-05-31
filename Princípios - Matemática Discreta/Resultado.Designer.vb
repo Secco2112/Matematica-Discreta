@@ -46,9 +46,9 @@ Partial Class Resultado
         Me.Label1.AutoSize = True
         Me.Label1.Location = New System.Drawing.Point(6, 65)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(106, 22)
+        Me.Label1.Size = New System.Drawing.Size(108, 22)
         Me.Label1.TabIndex = 3
-        Me.Label1.Text = "resultadoTxt"
+        Me.Label1.Text = "resolucaoTxt"
         '
         'GroupBox2
         '
@@ -66,9 +66,9 @@ Partial Class Resultado
         Me.Label4.AutoSize = True
         Me.Label4.Location = New System.Drawing.Point(6, 46)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(59, 22)
+        Me.Label4.Size = New System.Drawing.Size(106, 22)
         Me.Label4.TabIndex = 4
-        Me.Label4.Text = "Label4"
+        Me.Label4.Text = "resultadoTxt"
         '
         'Resultado
         '

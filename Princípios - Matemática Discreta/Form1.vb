@@ -59,6 +59,10 @@
     End Sub
 
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
+        If RadioButton1.Checked Then
+            GroupBox3.Enabled = False
+        End If
+
         If cont > 0 Then
             GroupBox3.Visible = True
             Button4.Visible = True
